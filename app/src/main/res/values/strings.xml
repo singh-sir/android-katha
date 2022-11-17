@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWorkManager</string>
+    <string name="screen_one">Screen 1</string>
+    <string name="screen_two">Screen 2</string>
+    <string name="screen_three">Screen 3</string>
+    <string name="cancel_work">Cancel Work</string>
+    <string name="go_to_next_screen">Go To Next Screen</string>
+</resources>
